@@ -174,7 +174,7 @@
 											</p>
 										</div>
 									</div>
-									<a id="btn-send" href="https://api.whatsapp.com/send?1=pt_BR&amp;phone=+5511913219644" target="_blank" class="mu-btn mu-quote-btn"><strong>Entre em contato</strong><i style="margin-left: 20px; color: #00cf23; font-size: 25p;" class="fab fa-whatsapp"></i></a>
+									<a id="btn-send" href="https://api.whatsapp.com/send?phone=5511913219644" target="_blank" class="mu-btn mu-quote-btn"><strong>Entre em contato</strong><i style="margin-left: 20px; color: #00cf23; font-size: 25p;" class="fab fa-whatsapp"></i></a>
 								</div>
 							</div>
 						</div>
@@ -281,7 +281,7 @@
 								<!-- <a class="mu-face" href="#"><i class="fab fa-facebook"></i></a> -->
 								<a class="mu-pinterest" href="https://www.linkedin.com/in/gabriela-chaluppe-54488249/"><i class="fab fa-linkedin"></i></a>
 								<!-- <a class="mu-google-plus" href="#"><i class="fab fa-instagram"></i></a> -->
-								<a class="mu-youtube" href="https://api.whatsapp.com/send?1=pt_BR&amp;phone=+5511913219644"><i class="fab fa-whatsapp"></i></a>
+								<a class="mu-youtube" href="https://api.whatsapp.com/send?phone=5511954509504"><i class="fab fa-whatsapp"></i></a>
 							</div>
 							<br>
 							<br>
