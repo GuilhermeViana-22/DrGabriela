@@ -1,0 +1,17 @@
+{
+    "name": "guilherme/novo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Viana",
+            "email": "gguicido.viana@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
